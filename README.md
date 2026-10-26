@@ -1,4 +1,4 @@
-# Excel-Ecommerce-Dashboaed
+# Excel-Ecommerce-Dashboard
 Interactive Excel Analytics Dashboard analyzing sales metrics, pricing trends, rating volumes, and fulfillment status across Amazon and Flipkart datasets
 # 📊 E-Commerce Performance Dashboard (Amazon vs. Flipkart)
 
