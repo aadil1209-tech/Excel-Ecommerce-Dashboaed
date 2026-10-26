@@ -23,4 +23,5 @@ This project processes multi-platform e-commerce product data to segment custome
 ---
 
 ## 🖼️ Dashboard Preview
-*(Upload your dashboard screenshot here)*
+<img width="1319" height="554" alt="dashboard" src="https://github.com/user-attachments/assets/507d3364-a62c-47b3-9d52-83ee8e1ff350" />
+
